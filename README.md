@@ -133,3 +133,4 @@ curl "http://localhost:3000"
 
 ### notes
 - [x] the sample contract or protofile goes <a href="https://github.com/WahidinAji/contract">here</a>
+- [x] don't forget to eat

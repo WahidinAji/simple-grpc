@@ -1,14 +1,6 @@
 # Usage
 - clone this repository and follow the instructions below
 
-## Regenerate gRPC code
-
-```zsh
-protoc --go_out=. --go_opt=paths=source_relative \
-    --go-grpc_out=. --go-grpc_opt=paths=source_relative \
-  ./contract/contract.proto
-```
-
 ## Run the server first
 ```zsh
 cd server
